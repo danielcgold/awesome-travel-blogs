@@ -14,6 +14,7 @@ Here's a list of unique travel blogs.
 * [Alex Cerball](http://alexcerball.com/)
 * [League Travels](https://www.leaguetravels.com/)
 * [Our Travel Passport](http://ourtravelpassport.com/)
+* [Mubboo Flights Blog](https://mubboo.flights/blog)
 
 ## How this list started
 I got tired of finding blogs using the same themes and using a ton of ads. Like popups? Like popups inside of popups? I don't. Most of these blogs are focused around good travel articles and great photos. I made this list as a public bookmark of my travel blog inspiration.
